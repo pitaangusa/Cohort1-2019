@@ -2,4 +2,4 @@
 ### Name - Github Handle
 
 1. Edison Abahurire - @simicode
-2. 
+2. Peter Angusa - @pitaangusa
