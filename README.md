@@ -2,4 +2,4 @@
 ### Name - Github Handle
 
 1. Edison Abahurire - @simicode
-2. Nnamiggo Scovia
+2. Paul Owori - @Paul-Owori
